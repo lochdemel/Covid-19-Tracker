@@ -12,7 +12,7 @@
  <img src="https://user-images.githubusercontent.com/90121372/132129243-b65d034a-fbf0-4ef6-8fc6-7db3f8c14782.jpg" width="200" height="400" />
 </p>
 
-**Privacy Policy**
+# **Privacy Policy**
 
 Lochana De Mel built the Covid-19-Tracker app as an Open Source app. This SERVICE is provided by Lochana De Mel at no cost and is intended for use as is.
 
