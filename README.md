@@ -1,6 +1,6 @@
 # Covid-19-Tracker
 
-> Coronavirus (COVID-19) Tracker App Using REST API & Volley Library Android Application Complete Project
+ > Coronavirus (COVID-19) Tracker App Using REST API & Volley Library Android Application Complete Project
 
 # Screenshots 
 
